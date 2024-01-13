@@ -18,6 +18,15 @@ body {
     margin: auto;
 }
 
+h1 {
+    font-family: 'Rock Salt', cursive;
+}
+
+h2, h3{
+    font-family: 'Shadows Into Light Two', cursive;
+    letter-spacing: 2px;
+}
+
 header  {
     margin-bottom: 30px;
     display: flex;
@@ -47,8 +56,47 @@ header nav ul li:hover{
     transform: scale(1.2);
 }
 
-img {
-    width: 100%;
+.secao  {
+    background: #377c6b;
+    color: #fff;
+    word-spacing: 5px;
+    font-size: 18px;
+}
+
+.secao1 {
+    padding: 50px 30px;
+    text-align: left;
+    font-weight: 500;
+    width: 500px;
+    float: left;
+}
+
+.imagem-quadrada {
+    width: 700px;
+    height: 500px;
+    
+}
+
+.secao2{
+    display: inline-block;
+    padding: 50px;
+}
+
+.secao2-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* font-size: 18px; */
+    /* word-spacing: 5px; */
+}
+
+
+.imagem-redonda {
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    object-fit: cover;
 }
 
 form {
