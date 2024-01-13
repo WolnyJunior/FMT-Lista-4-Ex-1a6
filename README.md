@@ -13,6 +13,10 @@
 <p>Recriar o template disponibilizado:</p>
 <img src="./assets/prints/modelo-template.png">
 
+<h3>Exercício 5</h3>
+<p>Recriar o template disponibilizado:</p>
+<img src="./assets/prints/modelo-template-tabela.png">
+
 
 
 
