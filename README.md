@@ -19,6 +19,6 @@
 
 <h3>Exercício 6</h3>
 <p>Criar interface do formulário</p>
-
+<img src="./assets/prints/lista 4 - exercício 6.png">
 
 <a href="https://fmt-lista-4-ex-1a6.vercel.app/">Confira</a>
