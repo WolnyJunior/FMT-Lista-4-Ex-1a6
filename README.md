@@ -21,8 +21,4 @@
 <p>Criar interface do formulário</p>
 
 
-
-
-
-
 <a href="https://fmt-lista-4-ex-1a6.vercel.app/">Confira</a>
