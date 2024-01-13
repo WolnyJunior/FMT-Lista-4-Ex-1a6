@@ -22,24 +22,25 @@ h1 {
     font-family: 'Rock Salt', cursive;
 }
 
-h2, h3{
+h2,
+h3 {
     font-family: 'Shadows Into Light Two', cursive;
     letter-spacing: 2px;
 }
 
-header  {
+header {
     margin-bottom: 30px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-header nav{
+header nav {
     display: flex;
     justify-content: space-around;
     background: rgba(0, 0, 0, .6);
     padding: 10px;
-    box-shadow:0 8px 3px -2px #111;
+    box-shadow: 0 8px 3px -2px #111;
     font-size: 18px;
     position: fixed;
     right: 0;
@@ -51,12 +52,12 @@ header nav ul li {
     transition: all .6s;
 }
 
-header nav ul li:hover{
+header nav ul li:hover {
     color: rgb(219, 237, 14);
     transform: scale(1.2);
 }
 
-.secao  {
+.secao {
     background: #377c6b;
     color: #fff;
     word-spacing: 5px;
@@ -74,22 +75,19 @@ header nav ul li:hover{
 .imagem-quadrada {
     width: 700px;
     height: 500px;
-    
+
 }
 
-.secao2{
+.secao2 {
     display: inline-block;
     padding: 50px;
 }
 
-.secao2-2{
+.secao2-2 {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* font-size: 18px; */
-    /* word-spacing: 5px; */
 }
-
 
 .imagem-redonda {
     margin: 20px;
@@ -97,6 +95,41 @@ header nav ul li:hover{
     height: 250px;
     border-radius: 100%;
     object-fit: cover;
+}
+
+.secao3 {
+    margin: 20px 0;
+}
+
+.secao3 h2 {
+    margin-left: 80px;
+}
+
+.tabela {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    padding: 5px;
+    border: 1px solid #111;
+    background: #fff;
+    color: #111;
+}
+
+th {
+    color: #fff;
+}
+
+th {
+    background: #666;
 }
 
 form {
@@ -122,4 +155,8 @@ footer {
     margin: 20px;
     text-align: center;
     line-height: 28px;
+}
+
+footer a {
+    color: #111;
 }
