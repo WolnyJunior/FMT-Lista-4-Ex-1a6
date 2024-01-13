@@ -5,3 +5,11 @@
 
 <h3>Exercício 2</h3>
 <p>Vamos começar a estilizar a navbar deixando-a com um display flexível, justify-content: space-around, colocando uma cor de fundo, sombra apenas em baixo (no bottom) e um espaçamento interno de 10px para todos os lados, se necessário mude a cor do texto também.</p>
+
+
+
+
+
+
+
+<a href="https://fmt-lista-4-ex-1a6.vercel.app/">Confira</a>
