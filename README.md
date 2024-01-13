@@ -6,6 +6,14 @@
 <h3>Exercício 2</h3>
 <p>Vamos começar a estilizar a navbar deixando-a com um display flexível, justify-content: space-around, colocando uma cor de fundo, sombra apenas em baixo (no bottom) e um espaçamento interno de 10px para todos os lados, se necessário mude a cor do texto também.</p>
 
+<h3>Exercício 3</h3>
+<p>Para o estilo da primeira sessão iremos adicionar uma cor de fundo diferente da do navbar, um espaçamento interno de 50px em cima e baixo (top e bottom) e 30px nas laterais (left e rigth) e alinhe o texto apenas nesta seção para a esquerda. Além disso, tire o peso da fonte com font-weight: 500 e o comprimento da breve descrição deverá ser de 500px.</p>
+
+<h4>Exercício 4</h4>
+<p>Recriar o template disponibilizado:</p>
+<img src="./assets/prints/modelo-template.png">
+
+
 
 
 
