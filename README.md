@@ -17,11 +17,8 @@
 <p>Recriar o template disponibilizado:</p>
 <img src="./assets/prints/modelo-template-tabela.png">
 
-
-
-
-
-
+<h3>Exercício 6</h3>
+<p>Criar interface do formulário</p>
 
 
 <a href="https://fmt-lista-4-ex-1a6.vercel.app/">Confira</a>
