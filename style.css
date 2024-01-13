@@ -8,8 +8,14 @@ html {
     scroll-behavior: smooth;
 }
 
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
 body {
-    padding: 0 30px;
+    width: 85%;
+    margin: auto;
 }
 
 header  {
@@ -19,13 +25,26 @@ header  {
     justify-content: space-between;
 }
 
-header nav ul{
+header nav{
     display: flex;
+    justify-content: space-around;
+    background: rgba(0, 0, 0, .6);
+    padding: 10px;
+    box-shadow:0 8px 3px -2px #111;
+    font-size: 18px;
+    position: fixed;
+    right: 0;
+    top: 0;
 }
 
 header nav ul li {
     list-style: none;
-    margin-left: 10px;
+    transition: all .6s;
+}
+
+header nav ul li:hover{
+    color: rgb(219, 237, 14);
+    transform: scale(1.2);
 }
 
 img {
